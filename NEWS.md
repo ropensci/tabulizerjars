@@ -1,3 +1,7 @@
+# CHANGES TO tabulizerjars 0.9.0
+
+* Release tabula-java 0.9.0
+
 # CHANGES TO tabulizerjars 0.8.0
 
 * Align version numbering of the package to tabula-java release numbers.
