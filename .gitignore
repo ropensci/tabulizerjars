@@ -1,0 +1,11 @@
+.Renviron
+.Rproj.user
+.Rhistory
+.RData
+*.log
+*.out
+*.aux
+*.sty
+*.csv
+*.tsv
+*.json

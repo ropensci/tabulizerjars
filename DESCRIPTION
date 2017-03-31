@@ -1,0 +1,16 @@
+Package: tabulizerjars
+Type: Package
+Title: Java '.jar' Files for 'tabulizer'
+Version: 0.8.0
+Date: 2016-05-25
+Authors@R: c(person("Thomas J.", "Leeper", role = c("aut", "cre"),
+                    email = "thosjleeper@gmail.com"),
+             person("Manuel", "Aristarán", role = c("ctb", "cph"), 
+                    comment = "tabula java library"))
+Maintainer: Thomas J. Leeper <thosjleeper@gmail.com>
+Description: This package contains the Java .jar files for the Tabula <http://tabula.technology/> java library, which are required by the tabulizer R package. The version numbering of this package corresponds to versions of 'tabula-java' library releases <https://github.com/tabulapdf/tabula-java/releases/>.
+License: MIT + file LICENSE
+URL: https://github.com/leeper/tabulizerjars
+BugReports: https://github.com/leeper/tabulizerjars/issues
+Imports: rJava
+Encoding: UTF-8
