@@ -1,3 +1,7 @@
+# CHANGES TO tabulizerjars 0.9.2
+
+* Release tabula-java 0.9.2
+
 # CHANGES TO tabulizerjars 0.9.1
 
 * Release tabula-java 0.9.1
