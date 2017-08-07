@@ -1,3 +1,7 @@
+# CHANGES TO tabulizerjars 1.0.1
+
+* Release tabula-java 1.0.1
+
 # CHANGES TO tabulizerjars 1.0.0
 
 * Release tabula-java 1.0.0 (uses PDFBox 2)

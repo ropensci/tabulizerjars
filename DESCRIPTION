@@ -1,8 +1,8 @@
 Package: tabulizerjars
 Type: Package
 Title: Java '.jar' Files for 'tabulizer'
-Version: 1.0.0
-Date: 2017-07-28
+Version: 1.0.1
+Date: 2017-08-07
 Authors@R: c(person("Thomas J.", "Leeper", role = c("aut", "cre"),
                     email = "thosjleeper@gmail.com"),
              person("Manuel", "Aristarán", role = c("ctb", "cph"), 
