@@ -15,4 +15,5 @@ License: MIT + file LICENSE
 URL: https://github.com/leeper/tabulizerjars
 BugReports: https://github.com/leeper/tabulizerjars/issues
 Imports: rJava
+SystemRequirements: Java (>= 7.0)
 Encoding: UTF-8
