@@ -3,6 +3,21 @@ sudo: false
 cache: packages
 r_github_packages:
 - cloudyr/travisci
+matrix:
+  include:
+    - os: linux
+      r: oldrel
+    - os: linux
+      r: release
+    - os: linux
+      r: devel
+    - os: linux
+      dist: trusty
+      env: R_CODECOV=true
+    - os: osx
+      osx_image: xcode8.3
+      before_install:
+        - R CMD javareconf
 after_success:
 - Rscript -e "travisci::restart_last_build('ropensci/tabulizer')"
 env:
