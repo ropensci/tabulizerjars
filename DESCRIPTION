@@ -13,7 +13,7 @@ Authors@R: c(person("Thomas J.", "Leeper",
              person("Manuel", "Aristarán", role = c("ctb", "cph"), 
                     comment = "tabula java library"))
 Maintainer: Tom Paskhalis <tpaskhalis@gmail.com>
-Description: Java .jar files for the Tabula <http://tabula.technology/> java library, which are required by the tabulizer R package. The version numbering of this package corresponds to versions of 'tabula-java' library releases <https://github.com/tabulapdf/tabula-java/releases/>.
+Description: Java .jar files for the 'Tabula' <http://tabula.technology/> java library, which are required by the 'tabulizer' R package. The version numbering of this package corresponds to versions of 'tabula-java' library releases <https://github.com/tabulapdf/tabula-java/releases/>.
 License: MIT + file LICENSE
 URL: https://github.com/ropensci/tabulizerjars
 BugReports: https://github.com/ropensci/tabulizerjars/issues
