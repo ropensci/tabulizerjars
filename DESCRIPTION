@@ -23,3 +23,4 @@ BugReports: https://github.com/ropensci/tabulizerjars/issues
 Imports: rJava
 SystemRequirements: Java (>= 7.0)
 Encoding: UTF-8
+RoxygenNote: 6.0.1
