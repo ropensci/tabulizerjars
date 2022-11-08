@@ -3,7 +3,6 @@
 \docType{package}
 \name{tabulizerjars}
 \alias{tabulizerjars}
-\alias{tabulizerjars-package}
 \title{Java '.jar' files of 'Tabula' PDF table extractor library.}
 \description{
 'Tabula' is a Java library designed to computationally extract

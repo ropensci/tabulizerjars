@@ -1,18 +1,21 @@
 Package: tabulizerjars
 Type: Package
 Title: 'Java' .jar Files for 'tabulizer'
-Version: 1.0.1
+Version: 1.2.1
 Authors@R: c(person("Thomas J.", "Leeper",
                     role = "aut", 
                     email = "thosjleeper@gmail.com",
                     comment = c(ORCID = "0000-0003-4097-6326")),
+             person("Mauricio", "Vargas",
+                    role = c("aut","cre"), 
+                    email = "hello+r@pacha.dev", 
+                    comment = c(ORCID = "0000-0003-1017-7574")),
              person("Tom", "Paskhalis",
-                    role = "cre",
+                    role = "aut",
                     email = "tpaskhalis@gmail.com",
                     comment = c(ORCID = "0000-0001-9298-8850")),
              person("Manuel", "Aristarán", role = c("ctb", "cph"), 
                     comment = "tabula java library"))
-Maintainer: Tom Paskhalis <tpaskhalis@gmail.com>
 Description: 'Java' .jar files for the 'Tabula' <http://tabula.technology/>
     'Java' library, which are required by the 'tabulizer' R package. The version
     numbering of this package corresponds to versions of 'tabula-java' library
@@ -23,4 +26,4 @@ BugReports: https://github.com/ropensci/tabulizerjars/issues
 Imports: rJava
 SystemRequirements: Java (>= 7.0)
 Encoding: UTF-8
-RoxygenNote: 6.0.1
+RoxygenNote: 7.2.1
